@@ -6,13 +6,17 @@ from .store import Store
 from .panel import Panel
 from .submissions import Submissions
 from .statistics import Statistics
+from .growth import Growth
+from .disclosure import Disclosure
 from .distribution import Distribution
 
 
 class Application:
     def __init__(self, path=':memory:'):
         self.store=Store(path)
-        self.services={'panel':Panel(self.store),'submissions':Submissions(self.store),'statistics':Statistics(self.store),'distribution':Distribution(self.store)}
+        self.services={'panel':Panel(self.store),'submissions':Submissions(self.store),
+            'statistics':Statistics(self.store),'growth':Growth(self.store),
+            'disclosure':Disclosure(self.store),'distribution':Distribution(self.store)}
 
     def execute(self, command, arguments):
         service, separator, operation=command.partition('.')
@@ -37,8 +41,9 @@ def main():
     app=Application(args.db)
     try:
         if args.action=='demo':
-            path=Path(__file__).parent.parent/'data'/'demo.json'
-            results=app.replay(json.loads(path.read_text()))
+            folder=Path(__file__).parent.parent/'data'
+            results=app.replay(json.loads((folder/'demo.json').read_text()))
+            results+=app.replay(json.loads((folder/'briefing.json').read_text()))
         elif args.action=='replay':
             if args.file is None:
                 parser.error('replay 需要 --file')

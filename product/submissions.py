@@ -1,4 +1,5 @@
 from .store import require, money
+from .corrections import flag_releases
 
 class Submissions:
     def __init__(self,store):
@@ -19,4 +20,6 @@ class Submissions:
         record=self.store.get('submission',id)
         require(bool(reason),'更正说明为空')
         record.update(cents=money(cents),status='reported',reason=reason)
-        return self.store.put('submission',id,record)
+        saved=self.store.put('submission',id,record)
+        flag_releases(self.store,'submission',id)
+        return saved

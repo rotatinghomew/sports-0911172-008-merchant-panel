@@ -1,4 +1,5 @@
 from .store import require, money
+from .corrections import flag_releases
 
 class Panel:
     def __init__(self,store):
@@ -15,4 +16,6 @@ class Panel:
         for key in successors:
             self.store.get('merchant',key)
         record.update(closed=effective,successors=successors)
-        return self.store.put('merchant',id,record)
+        saved=self.store.put('merchant',id,record)
+        flag_releases(self.store,'merchant',id)
+        return saved
