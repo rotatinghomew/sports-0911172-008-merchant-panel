@@ -1,0 +1,69 @@
+[
+  [
+    "panel.register",
+    {
+      "id": "m1",
+      "sector": "food",
+      "district": "east",
+      "opened": "2026-01-01"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m2",
+      "sector": "sport",
+      "district": "east",
+      "opened": "2026-10-01"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1",
+      "merchant": "m1",
+      "week": "2026-W42",
+      "cents": 100000,
+      "open_days": 7
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2",
+      "merchant": "m2",
+      "week": "2026-W42",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "statistics.summarize",
+    {
+      "id": "sum1",
+      "week": "2026-W42",
+      "merchants": [
+        "m1",
+        "m2"
+      ]
+    }
+  ],
+  [
+    "distribution.prepare",
+    {
+      "id": "r1",
+      "summary": "sum1",
+      "recipients": [
+        "partner"
+      ],
+      "reviewer": "finance"
+    }
+  ],
+  [
+    "distribution.send",
+    {
+      "id": "r1"
+    }
+  ]
+]

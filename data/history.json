@@ -1,0 +1,4787 @@
+[
+  [
+    "panel.register",
+    {
+      "id": "m0",
+      "sector": "food",
+      "district": "d0",
+      "opened": "2026-07-01"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m1",
+      "sector": "sport",
+      "district": "d1",
+      "opened": "2026-07-02"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m2",
+      "sector": "hotel",
+      "district": "d2",
+      "opened": "2026-07-03"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m3",
+      "sector": "food",
+      "district": "d3",
+      "opened": "2026-07-04"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m4",
+      "sector": "sport",
+      "district": "d0",
+      "opened": "2026-07-05"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m5",
+      "sector": "hotel",
+      "district": "d1",
+      "opened": "2026-07-06"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m6",
+      "sector": "food",
+      "district": "d2",
+      "opened": "2026-07-07"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m7",
+      "sector": "sport",
+      "district": "d3",
+      "opened": "2026-07-08"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m8",
+      "sector": "hotel",
+      "district": "d0",
+      "opened": "2026-07-09"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m9",
+      "sector": "food",
+      "district": "d1",
+      "opened": "2026-07-10"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m10",
+      "sector": "sport",
+      "district": "d2",
+      "opened": "2026-07-11"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m11",
+      "sector": "hotel",
+      "district": "d3",
+      "opened": "2026-07-12"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m12",
+      "sector": "food",
+      "district": "d0",
+      "opened": "2026-07-01"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m13",
+      "sector": "sport",
+      "district": "d1",
+      "opened": "2026-07-02"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m14",
+      "sector": "hotel",
+      "district": "d2",
+      "opened": "2026-07-03"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m15",
+      "sector": "food",
+      "district": "d3",
+      "opened": "2026-07-04"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m16",
+      "sector": "sport",
+      "district": "d0",
+      "opened": "2026-07-05"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m17",
+      "sector": "hotel",
+      "district": "d1",
+      "opened": "2026-07-06"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m18",
+      "sector": "food",
+      "district": "d2",
+      "opened": "2026-07-07"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m19",
+      "sector": "sport",
+      "district": "d3",
+      "opened": "2026-07-08"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m20",
+      "sector": "hotel",
+      "district": "d0",
+      "opened": "2026-07-09"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m21",
+      "sector": "food",
+      "district": "d1",
+      "opened": "2026-07-10"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m22",
+      "sector": "sport",
+      "district": "d2",
+      "opened": "2026-07-11"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m23",
+      "sector": "hotel",
+      "district": "d3",
+      "opened": "2026-07-12"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m24",
+      "sector": "food",
+      "district": "d0",
+      "opened": "2026-07-01"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m25",
+      "sector": "sport",
+      "district": "d1",
+      "opened": "2026-07-02"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m26",
+      "sector": "hotel",
+      "district": "d2",
+      "opened": "2026-07-03"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m27",
+      "sector": "food",
+      "district": "d3",
+      "opened": "2026-07-04"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m28",
+      "sector": "sport",
+      "district": "d0",
+      "opened": "2026-07-05"
+    }
+  ],
+  [
+    "panel.register",
+    {
+      "id": "m29",
+      "sector": "hotel",
+      "district": "d1",
+      "opened": "2026-07-06"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:0",
+      "merchant": "m0",
+      "week": "2026-W27",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:1",
+      "merchant": "m1",
+      "week": "2026-W27",
+      "cents": 90000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:2",
+      "merchant": "m2",
+      "week": "2026-W27",
+      "cents": 44300,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:3",
+      "merchant": "m3",
+      "week": "2026-W27",
+      "cents": 141200,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:4",
+      "merchant": "m4",
+      "week": "2026-W27",
+      "cents": 6300,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:5",
+      "merchant": "m5",
+      "week": "2026-W27",
+      "cents": 90500,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:6",
+      "merchant": "m6",
+      "week": "2026-W27",
+      "cents": 121200,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:7",
+      "merchant": "m7",
+      "week": "2026-W27",
+      "cents": 155200,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:8",
+      "merchant": "m8",
+      "week": "2026-W27",
+      "cents": 52600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:9",
+      "merchant": "m9",
+      "week": "2026-W27",
+      "cents": 174300,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:10",
+      "merchant": "m10",
+      "week": "2026-W27",
+      "cents": 193300,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:11",
+      "merchant": "m11",
+      "week": "2026-W27",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:12",
+      "merchant": "m12",
+      "week": "2026-W27",
+      "cents": 5900,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:13",
+      "merchant": "m13",
+      "week": "2026-W27",
+      "cents": 151500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:14",
+      "merchant": "m14",
+      "week": "2026-W27",
+      "cents": 140100,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:15",
+      "merchant": "m15",
+      "week": "2026-W27",
+      "cents": 40900,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:16",
+      "merchant": "m16",
+      "week": "2026-W27",
+      "cents": 141200,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:17",
+      "merchant": "m17",
+      "week": "2026-W27",
+      "cents": 80600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:18",
+      "merchant": "m18",
+      "week": "2026-W27",
+      "cents": 122900,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:19",
+      "merchant": "m19",
+      "week": "2026-W27",
+      "cents": 86800,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:20",
+      "merchant": "m20",
+      "week": "2026-W27",
+      "cents": 32600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:21",
+      "merchant": "m21",
+      "week": "2026-W27",
+      "cents": 163100,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:22",
+      "merchant": "m22",
+      "week": "2026-W27",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:23",
+      "merchant": "m23",
+      "week": "2026-W27",
+      "cents": 59000,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:24",
+      "merchant": "m24",
+      "week": "2026-W27",
+      "cents": 114000,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:25",
+      "merchant": "m25",
+      "week": "2026-W27",
+      "cents": 185700,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:26",
+      "merchant": "m26",
+      "week": "2026-W27",
+      "cents": 54600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:27",
+      "merchant": "m27",
+      "week": "2026-W27",
+      "cents": 190700,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:28",
+      "merchant": "m28",
+      "week": "2026-W27",
+      "cents": 118000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s0:29",
+      "merchant": "m29",
+      "week": "2026-W27",
+      "cents": 125600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "statistics.summarize",
+    {
+      "id": "sum0",
+      "week": "2026-W27",
+      "merchants": [
+        "m0",
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m9",
+        "m10",
+        "m11",
+        "m12",
+        "m13",
+        "m14",
+        "m15",
+        "m16",
+        "m17",
+        "m18",
+        "m19",
+        "m20",
+        "m21",
+        "m22",
+        "m23",
+        "m24",
+        "m25",
+        "m26",
+        "m27",
+        "m28",
+        "m29"
+      ]
+    }
+  ],
+  [
+    "distribution.prepare",
+    {
+      "id": "rel0",
+      "summary": "sum0",
+      "recipients": [
+        "alliance"
+      ],
+      "reviewer": "finance"
+    }
+  ],
+  [
+    "distribution.send",
+    {
+      "id": "rel0"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:0",
+      "merchant": "m0",
+      "week": "2026-W28",
+      "cents": 33500,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:1",
+      "merchant": "m1",
+      "week": "2026-W28",
+      "cents": 188600,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:2",
+      "merchant": "m2",
+      "week": "2026-W28",
+      "cents": 64500,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:3",
+      "merchant": "m3",
+      "week": "2026-W28",
+      "cents": 96600,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:4",
+      "merchant": "m4",
+      "week": "2026-W28",
+      "cents": 71700,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:5",
+      "merchant": "m5",
+      "week": "2026-W28",
+      "cents": 26400,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:6",
+      "merchant": "m6",
+      "week": "2026-W28",
+      "cents": 113100,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:7",
+      "merchant": "m7",
+      "week": "2026-W28",
+      "cents": 85300,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:8",
+      "merchant": "m8",
+      "week": "2026-W28",
+      "cents": 106600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:9",
+      "merchant": "m9",
+      "week": "2026-W28",
+      "cents": 155100,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:10",
+      "merchant": "m10",
+      "week": "2026-W28",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:11",
+      "merchant": "m11",
+      "week": "2026-W28",
+      "cents": 182500,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:12",
+      "merchant": "m12",
+      "week": "2026-W28",
+      "cents": 22800,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:13",
+      "merchant": "m13",
+      "week": "2026-W28",
+      "cents": 20100,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:14",
+      "merchant": "m14",
+      "week": "2026-W28",
+      "cents": 65700,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:15",
+      "merchant": "m15",
+      "week": "2026-W28",
+      "cents": 53000,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:16",
+      "merchant": "m16",
+      "week": "2026-W28",
+      "cents": 45600,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:17",
+      "merchant": "m17",
+      "week": "2026-W28",
+      "cents": 181000,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:18",
+      "merchant": "m18",
+      "week": "2026-W28",
+      "cents": 74200,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:19",
+      "merchant": "m19",
+      "week": "2026-W28",
+      "cents": 104000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:20",
+      "merchant": "m20",
+      "week": "2026-W28",
+      "cents": 118600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:21",
+      "merchant": "m21",
+      "week": "2026-W28",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:22",
+      "merchant": "m22",
+      "week": "2026-W28",
+      "cents": 34100,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:23",
+      "merchant": "m23",
+      "week": "2026-W28",
+      "cents": 17600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:24",
+      "merchant": "m24",
+      "week": "2026-W28",
+      "cents": 138000,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:25",
+      "merchant": "m25",
+      "week": "2026-W28",
+      "cents": 100600,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:26",
+      "merchant": "m26",
+      "week": "2026-W28",
+      "cents": 124100,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:27",
+      "merchant": "m27",
+      "week": "2026-W28",
+      "cents": 147700,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:28",
+      "merchant": "m28",
+      "week": "2026-W28",
+      "cents": 103000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s1:29",
+      "merchant": "m29",
+      "week": "2026-W28",
+      "cents": 105900,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "statistics.summarize",
+    {
+      "id": "sum1",
+      "week": "2026-W28",
+      "merchants": [
+        "m0",
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m9",
+        "m10",
+        "m11",
+        "m12",
+        "m13",
+        "m14",
+        "m15",
+        "m16",
+        "m17",
+        "m18",
+        "m19",
+        "m20",
+        "m21",
+        "m22",
+        "m23",
+        "m24",
+        "m25",
+        "m26",
+        "m27",
+        "m28",
+        "m29"
+      ]
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:0",
+      "merchant": "m0",
+      "week": "2026-W29",
+      "cents": 12100,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:1",
+      "merchant": "m1",
+      "week": "2026-W29",
+      "cents": 77400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:2",
+      "merchant": "m2",
+      "week": "2026-W29",
+      "cents": 50800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:3",
+      "merchant": "m3",
+      "week": "2026-W29",
+      "cents": 167900,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:4",
+      "merchant": "m4",
+      "week": "2026-W29",
+      "cents": 50700,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:5",
+      "merchant": "m5",
+      "week": "2026-W29",
+      "cents": 52700,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:6",
+      "merchant": "m6",
+      "week": "2026-W29",
+      "cents": 126800,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:7",
+      "merchant": "m7",
+      "week": "2026-W29",
+      "cents": 40500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:8",
+      "merchant": "m8",
+      "week": "2026-W29",
+      "cents": 34800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:9",
+      "merchant": "m9",
+      "week": "2026-W29",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:10",
+      "merchant": "m10",
+      "week": "2026-W29",
+      "cents": 66300,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:11",
+      "merchant": "m11",
+      "week": "2026-W29",
+      "cents": 43300,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:12",
+      "merchant": "m12",
+      "week": "2026-W29",
+      "cents": 38800,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:13",
+      "merchant": "m13",
+      "week": "2026-W29",
+      "cents": 165100,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:14",
+      "merchant": "m14",
+      "week": "2026-W29",
+      "cents": 87000,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:15",
+      "merchant": "m15",
+      "week": "2026-W29",
+      "cents": 165800,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:16",
+      "merchant": "m16",
+      "week": "2026-W29",
+      "cents": 195000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:17",
+      "merchant": "m17",
+      "week": "2026-W29",
+      "cents": 63000,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:18",
+      "merchant": "m18",
+      "week": "2026-W29",
+      "cents": 175400,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:19",
+      "merchant": "m19",
+      "week": "2026-W29",
+      "cents": 49800,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:20",
+      "merchant": "m20",
+      "week": "2026-W29",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:21",
+      "merchant": "m21",
+      "week": "2026-W29",
+      "cents": 175800,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:22",
+      "merchant": "m22",
+      "week": "2026-W29",
+      "cents": 192400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:23",
+      "merchant": "m23",
+      "week": "2026-W29",
+      "cents": 111800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:24",
+      "merchant": "m24",
+      "week": "2026-W29",
+      "cents": 170500,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:25",
+      "merchant": "m25",
+      "week": "2026-W29",
+      "cents": 131600,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:26",
+      "merchant": "m26",
+      "week": "2026-W29",
+      "cents": 45400,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:27",
+      "merchant": "m27",
+      "week": "2026-W29",
+      "cents": 31400,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:28",
+      "merchant": "m28",
+      "week": "2026-W29",
+      "cents": 92700,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s2:29",
+      "merchant": "m29",
+      "week": "2026-W29",
+      "cents": 15400,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "statistics.summarize",
+    {
+      "id": "sum2",
+      "week": "2026-W29",
+      "merchants": [
+        "m0",
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m9",
+        "m10",
+        "m11",
+        "m12",
+        "m13",
+        "m14",
+        "m15",
+        "m16",
+        "m17",
+        "m18",
+        "m19",
+        "m20",
+        "m21",
+        "m22",
+        "m23",
+        "m24",
+        "m25",
+        "m26",
+        "m27",
+        "m28",
+        "m29"
+      ]
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:0",
+      "merchant": "m0",
+      "week": "2026-W30",
+      "cents": 63900,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:1",
+      "merchant": "m1",
+      "week": "2026-W30",
+      "cents": 15600,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:2",
+      "merchant": "m2",
+      "week": "2026-W30",
+      "cents": 175500,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:3",
+      "merchant": "m3",
+      "week": "2026-W30",
+      "cents": 72800,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:4",
+      "merchant": "m4",
+      "week": "2026-W30",
+      "cents": 53600,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:5",
+      "merchant": "m5",
+      "week": "2026-W30",
+      "cents": 12000,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:6",
+      "merchant": "m6",
+      "week": "2026-W30",
+      "cents": 14500,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:7",
+      "merchant": "m7",
+      "week": "2026-W30",
+      "cents": 140700,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:8",
+      "merchant": "m8",
+      "week": "2026-W30",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:9",
+      "merchant": "m9",
+      "week": "2026-W30",
+      "cents": 17300,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:10",
+      "merchant": "m10",
+      "week": "2026-W30",
+      "cents": 51500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:11",
+      "merchant": "m11",
+      "week": "2026-W30",
+      "cents": 87000,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:12",
+      "merchant": "m12",
+      "week": "2026-W30",
+      "cents": 62400,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:13",
+      "merchant": "m13",
+      "week": "2026-W30",
+      "cents": 98800,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:14",
+      "merchant": "m14",
+      "week": "2026-W30",
+      "cents": 163000,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:15",
+      "merchant": "m15",
+      "week": "2026-W30",
+      "cents": 95900,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:16",
+      "merchant": "m16",
+      "week": "2026-W30",
+      "cents": 150800,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:17",
+      "merchant": "m17",
+      "week": "2026-W30",
+      "cents": 189800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:18",
+      "merchant": "m18",
+      "week": "2026-W30",
+      "cents": 83200,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:19",
+      "merchant": "m19",
+      "week": "2026-W30",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:20",
+      "merchant": "m20",
+      "week": "2026-W30",
+      "cents": 47000,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:21",
+      "merchant": "m21",
+      "week": "2026-W30",
+      "cents": 149000,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:22",
+      "merchant": "m22",
+      "week": "2026-W30",
+      "cents": 199500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:23",
+      "merchant": "m23",
+      "week": "2026-W30",
+      "cents": 189800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:24",
+      "merchant": "m24",
+      "week": "2026-W30",
+      "cents": 191500,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:25",
+      "merchant": "m25",
+      "week": "2026-W30",
+      "cents": 16000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:26",
+      "merchant": "m26",
+      "week": "2026-W30",
+      "cents": 19100,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:27",
+      "merchant": "m27",
+      "week": "2026-W30",
+      "cents": 5200,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:28",
+      "merchant": "m28",
+      "week": "2026-W30",
+      "cents": 171600,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s3:29",
+      "merchant": "m29",
+      "week": "2026-W30",
+      "cents": 26800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "statistics.summarize",
+    {
+      "id": "sum3",
+      "week": "2026-W30",
+      "merchants": [
+        "m0",
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m9",
+        "m10",
+        "m11",
+        "m12",
+        "m13",
+        "m14",
+        "m15",
+        "m16",
+        "m17",
+        "m18",
+        "m19",
+        "m20",
+        "m21",
+        "m22",
+        "m23",
+        "m24",
+        "m25",
+        "m26",
+        "m27",
+        "m28",
+        "m29"
+      ]
+    }
+  ],
+  [
+    "distribution.prepare",
+    {
+      "id": "rel3",
+      "summary": "sum3",
+      "recipients": [
+        "alliance"
+      ],
+      "reviewer": "finance"
+    }
+  ],
+  [
+    "distribution.send",
+    {
+      "id": "rel3"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:0",
+      "merchant": "m0",
+      "week": "2026-W31",
+      "cents": 7300,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:1",
+      "merchant": "m1",
+      "week": "2026-W31",
+      "cents": 173800,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:2",
+      "merchant": "m2",
+      "week": "2026-W31",
+      "cents": 154700,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:3",
+      "merchant": "m3",
+      "week": "2026-W31",
+      "cents": 164500,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:4",
+      "merchant": "m4",
+      "week": "2026-W31",
+      "cents": 21400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:5",
+      "merchant": "m5",
+      "week": "2026-W31",
+      "cents": 127900,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:6",
+      "merchant": "m6",
+      "week": "2026-W31",
+      "cents": 57200,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:7",
+      "merchant": "m7",
+      "week": "2026-W31",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:8",
+      "merchant": "m8",
+      "week": "2026-W31",
+      "cents": 42200,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:9",
+      "merchant": "m9",
+      "week": "2026-W31",
+      "cents": 162500,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:10",
+      "merchant": "m10",
+      "week": "2026-W31",
+      "cents": 126200,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:11",
+      "merchant": "m11",
+      "week": "2026-W31",
+      "cents": 69600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:12",
+      "merchant": "m12",
+      "week": "2026-W31",
+      "cents": 63600,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:13",
+      "merchant": "m13",
+      "week": "2026-W31",
+      "cents": 25700,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:14",
+      "merchant": "m14",
+      "week": "2026-W31",
+      "cents": 105900,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:15",
+      "merchant": "m15",
+      "week": "2026-W31",
+      "cents": 27500,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:16",
+      "merchant": "m16",
+      "week": "2026-W31",
+      "cents": 165800,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:17",
+      "merchant": "m17",
+      "week": "2026-W31",
+      "cents": 106200,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:18",
+      "merchant": "m18",
+      "week": "2026-W31",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:19",
+      "merchant": "m19",
+      "week": "2026-W31",
+      "cents": 119400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:20",
+      "merchant": "m20",
+      "week": "2026-W31",
+      "cents": 156100,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:21",
+      "merchant": "m21",
+      "week": "2026-W31",
+      "cents": 54000,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:22",
+      "merchant": "m22",
+      "week": "2026-W31",
+      "cents": 132900,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:23",
+      "merchant": "m23",
+      "week": "2026-W31",
+      "cents": 154300,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:24",
+      "merchant": "m24",
+      "week": "2026-W31",
+      "cents": 165400,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:25",
+      "merchant": "m25",
+      "week": "2026-W31",
+      "cents": 62500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:26",
+      "merchant": "m26",
+      "week": "2026-W31",
+      "cents": 137200,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:27",
+      "merchant": "m27",
+      "week": "2026-W31",
+      "cents": 133700,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:28",
+      "merchant": "m28",
+      "week": "2026-W31",
+      "cents": 79000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s4:29",
+      "merchant": "m29",
+      "week": "2026-W31",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "statistics.summarize",
+    {
+      "id": "sum4",
+      "week": "2026-W31",
+      "merchants": [
+        "m0",
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m9",
+        "m10",
+        "m11",
+        "m12",
+        "m13",
+        "m14",
+        "m15",
+        "m16",
+        "m17",
+        "m18",
+        "m19",
+        "m20",
+        "m21",
+        "m22",
+        "m23",
+        "m24",
+        "m25",
+        "m26",
+        "m27",
+        "m28",
+        "m29"
+      ]
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:0",
+      "merchant": "m0",
+      "week": "2026-W32",
+      "cents": 102200,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:1",
+      "merchant": "m1",
+      "week": "2026-W32",
+      "cents": 179100,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:2",
+      "merchant": "m2",
+      "week": "2026-W32",
+      "cents": 52300,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:3",
+      "merchant": "m3",
+      "week": "2026-W32",
+      "cents": 34400,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:4",
+      "merchant": "m4",
+      "week": "2026-W32",
+      "cents": 15500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:5",
+      "merchant": "m5",
+      "week": "2026-W32",
+      "cents": 71200,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:6",
+      "merchant": "m6",
+      "week": "2026-W32",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:7",
+      "merchant": "m7",
+      "week": "2026-W32",
+      "cents": 193600,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:8",
+      "merchant": "m8",
+      "week": "2026-W32",
+      "cents": 185700,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:9",
+      "merchant": "m9",
+      "week": "2026-W32",
+      "cents": 21600,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:10",
+      "merchant": "m10",
+      "week": "2026-W32",
+      "cents": 114000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:11",
+      "merchant": "m11",
+      "week": "2026-W32",
+      "cents": 0,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:12",
+      "merchant": "m12",
+      "week": "2026-W32",
+      "cents": 177200,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:13",
+      "merchant": "m13",
+      "week": "2026-W32",
+      "cents": 115300,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:14",
+      "merchant": "m14",
+      "week": "2026-W32",
+      "cents": 95500,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:15",
+      "merchant": "m15",
+      "week": "2026-W32",
+      "cents": 97300,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:16",
+      "merchant": "m16",
+      "week": "2026-W32",
+      "cents": 9500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:17",
+      "merchant": "m17",
+      "week": "2026-W32",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:18",
+      "merchant": "m18",
+      "week": "2026-W32",
+      "cents": 137700,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:19",
+      "merchant": "m19",
+      "week": "2026-W32",
+      "cents": 186500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:20",
+      "merchant": "m20",
+      "week": "2026-W32",
+      "cents": 62600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:21",
+      "merchant": "m21",
+      "week": "2026-W32",
+      "cents": 79700,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:22",
+      "merchant": "m22",
+      "week": "2026-W32",
+      "cents": 137100,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:23",
+      "merchant": "m23",
+      "week": "2026-W32",
+      "cents": 142700,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:24",
+      "merchant": "m24",
+      "week": "2026-W32",
+      "cents": 17600,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:25",
+      "merchant": "m25",
+      "week": "2026-W32",
+      "cents": 104500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:26",
+      "merchant": "m26",
+      "week": "2026-W32",
+      "cents": 20800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:27",
+      "merchant": "m27",
+      "week": "2026-W32",
+      "cents": 17600,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:28",
+      "merchant": "m28",
+      "week": "2026-W32",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s5:29",
+      "merchant": "m29",
+      "week": "2026-W32",
+      "cents": 108800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "statistics.summarize",
+    {
+      "id": "sum5",
+      "week": "2026-W32",
+      "merchants": [
+        "m0",
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m9",
+        "m10",
+        "m11",
+        "m12",
+        "m13",
+        "m14",
+        "m15",
+        "m16",
+        "m17",
+        "m18",
+        "m19",
+        "m20",
+        "m21",
+        "m22",
+        "m23",
+        "m24",
+        "m25",
+        "m26",
+        "m27",
+        "m28",
+        "m29"
+      ]
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:0",
+      "merchant": "m0",
+      "week": "2026-W33",
+      "cents": 155100,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:1",
+      "merchant": "m1",
+      "week": "2026-W33",
+      "cents": 74100,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:2",
+      "merchant": "m2",
+      "week": "2026-W33",
+      "cents": 12300,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:3",
+      "merchant": "m3",
+      "week": "2026-W33",
+      "cents": 33200,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:4",
+      "merchant": "m4",
+      "week": "2026-W33",
+      "cents": 43000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:5",
+      "merchant": "m5",
+      "week": "2026-W33",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:6",
+      "merchant": "m6",
+      "week": "2026-W33",
+      "cents": 58600,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:7",
+      "merchant": "m7",
+      "week": "2026-W33",
+      "cents": 105500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:8",
+      "merchant": "m8",
+      "week": "2026-W33",
+      "cents": 32900,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:9",
+      "merchant": "m9",
+      "week": "2026-W33",
+      "cents": 117300,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:10",
+      "merchant": "m10",
+      "week": "2026-W33",
+      "cents": 130900,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:11",
+      "merchant": "m11",
+      "week": "2026-W33",
+      "cents": 31500,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:12",
+      "merchant": "m12",
+      "week": "2026-W33",
+      "cents": 78300,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:13",
+      "merchant": "m13",
+      "week": "2026-W33",
+      "cents": 117400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:14",
+      "merchant": "m14",
+      "week": "2026-W33",
+      "cents": 165700,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:15",
+      "merchant": "m15",
+      "week": "2026-W33",
+      "cents": 158100,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:16",
+      "merchant": "m16",
+      "week": "2026-W33",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:17",
+      "merchant": "m17",
+      "week": "2026-W33",
+      "cents": 83400,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:18",
+      "merchant": "m18",
+      "week": "2026-W33",
+      "cents": 164300,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:19",
+      "merchant": "m19",
+      "week": "2026-W33",
+      "cents": 19900,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:20",
+      "merchant": "m20",
+      "week": "2026-W33",
+      "cents": 70400,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:21",
+      "merchant": "m21",
+      "week": "2026-W33",
+      "cents": 106800,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:22",
+      "merchant": "m22",
+      "week": "2026-W33",
+      "cents": 99500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:23",
+      "merchant": "m23",
+      "week": "2026-W33",
+      "cents": 146400,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:24",
+      "merchant": "m24",
+      "week": "2026-W33",
+      "cents": 196200,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:25",
+      "merchant": "m25",
+      "week": "2026-W33",
+      "cents": 28600,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:26",
+      "merchant": "m26",
+      "week": "2026-W33",
+      "cents": 173900,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:27",
+      "merchant": "m27",
+      "week": "2026-W33",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:28",
+      "merchant": "m28",
+      "week": "2026-W33",
+      "cents": 186900,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s6:29",
+      "merchant": "m29",
+      "week": "2026-W33",
+      "cents": 133900,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "statistics.summarize",
+    {
+      "id": "sum6",
+      "week": "2026-W33",
+      "merchants": [
+        "m0",
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m9",
+        "m10",
+        "m11",
+        "m12",
+        "m13",
+        "m14",
+        "m15",
+        "m16",
+        "m17",
+        "m18",
+        "m19",
+        "m20",
+        "m21",
+        "m22",
+        "m23",
+        "m24",
+        "m25",
+        "m26",
+        "m27",
+        "m28",
+        "m29"
+      ]
+    }
+  ],
+  [
+    "distribution.prepare",
+    {
+      "id": "rel6",
+      "summary": "sum6",
+      "recipients": [
+        "alliance"
+      ],
+      "reviewer": "finance"
+    }
+  ],
+  [
+    "distribution.send",
+    {
+      "id": "rel6"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:0",
+      "merchant": "m0",
+      "week": "2026-W34",
+      "cents": 194900,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:1",
+      "merchant": "m1",
+      "week": "2026-W34",
+      "cents": 73400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:2",
+      "merchant": "m2",
+      "week": "2026-W34",
+      "cents": 172700,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:3",
+      "merchant": "m3",
+      "week": "2026-W34",
+      "cents": 11800,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:4",
+      "merchant": "m4",
+      "week": "2026-W34",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:5",
+      "merchant": "m5",
+      "week": "2026-W34",
+      "cents": 180600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:6",
+      "merchant": "m6",
+      "week": "2026-W34",
+      "cents": 89500,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:7",
+      "merchant": "m7",
+      "week": "2026-W34",
+      "cents": 152200,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:8",
+      "merchant": "m8",
+      "week": "2026-W34",
+      "cents": 127300,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:9",
+      "merchant": "m9",
+      "week": "2026-W34",
+      "cents": 159000,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:10",
+      "merchant": "m10",
+      "week": "2026-W34",
+      "cents": 12000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:11",
+      "merchant": "m11",
+      "week": "2026-W34",
+      "cents": 112300,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:12",
+      "merchant": "m12",
+      "week": "2026-W34",
+      "cents": 70500,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:13",
+      "merchant": "m13",
+      "week": "2026-W34",
+      "cents": 28400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:14",
+      "merchant": "m14",
+      "week": "2026-W34",
+      "cents": 26700,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:15",
+      "merchant": "m15",
+      "week": "2026-W34",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:16",
+      "merchant": "m16",
+      "week": "2026-W34",
+      "cents": 159700,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:17",
+      "merchant": "m17",
+      "week": "2026-W34",
+      "cents": 102300,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:18",
+      "merchant": "m18",
+      "week": "2026-W34",
+      "cents": 195400,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:19",
+      "merchant": "m19",
+      "week": "2026-W34",
+      "cents": 120300,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:20",
+      "merchant": "m20",
+      "week": "2026-W34",
+      "cents": 26200,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:21",
+      "merchant": "m21",
+      "week": "2026-W34",
+      "cents": 42800,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:22",
+      "merchant": "m22",
+      "week": "2026-W34",
+      "cents": 61300,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:23",
+      "merchant": "m23",
+      "week": "2026-W34",
+      "cents": 182200,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:24",
+      "merchant": "m24",
+      "week": "2026-W34",
+      "cents": 156000,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:25",
+      "merchant": "m25",
+      "week": "2026-W34",
+      "cents": 97400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:26",
+      "merchant": "m26",
+      "week": "2026-W34",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:27",
+      "merchant": "m27",
+      "week": "2026-W34",
+      "cents": 4900,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:28",
+      "merchant": "m28",
+      "week": "2026-W34",
+      "cents": 162800,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s7:29",
+      "merchant": "m29",
+      "week": "2026-W34",
+      "cents": 115400,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "statistics.summarize",
+    {
+      "id": "sum7",
+      "week": "2026-W34",
+      "merchants": [
+        "m0",
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m9",
+        "m10",
+        "m11",
+        "m12",
+        "m13",
+        "m14",
+        "m15",
+        "m16",
+        "m17",
+        "m18",
+        "m19",
+        "m20",
+        "m21",
+        "m22",
+        "m23",
+        "m24",
+        "m25",
+        "m26",
+        "m27",
+        "m28",
+        "m29"
+      ]
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:0",
+      "merchant": "m0",
+      "week": "2026-W35",
+      "cents": 24800,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:1",
+      "merchant": "m1",
+      "week": "2026-W35",
+      "cents": 178000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:2",
+      "merchant": "m2",
+      "week": "2026-W35",
+      "cents": 57800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:3",
+      "merchant": "m3",
+      "week": "2026-W35",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:4",
+      "merchant": "m4",
+      "week": "2026-W35",
+      "cents": 37700,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:5",
+      "merchant": "m5",
+      "week": "2026-W35",
+      "cents": 32500,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:6",
+      "merchant": "m6",
+      "week": "2026-W35",
+      "cents": 24600,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:7",
+      "merchant": "m7",
+      "week": "2026-W35",
+      "cents": 9000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:8",
+      "merchant": "m8",
+      "week": "2026-W35",
+      "cents": 50500,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:9",
+      "merchant": "m9",
+      "week": "2026-W35",
+      "cents": 175700,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:10",
+      "merchant": "m10",
+      "week": "2026-W35",
+      "cents": 176200,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:11",
+      "merchant": "m11",
+      "week": "2026-W35",
+      "cents": 158000,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:12",
+      "merchant": "m12",
+      "week": "2026-W35",
+      "cents": 125200,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:13",
+      "merchant": "m13",
+      "week": "2026-W35",
+      "cents": 68500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:14",
+      "merchant": "m14",
+      "week": "2026-W35",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:15",
+      "merchant": "m15",
+      "week": "2026-W35",
+      "cents": 57800,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:16",
+      "merchant": "m16",
+      "week": "2026-W35",
+      "cents": 49300,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:17",
+      "merchant": "m17",
+      "week": "2026-W35",
+      "cents": 117900,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:18",
+      "merchant": "m18",
+      "week": "2026-W35",
+      "cents": 154000,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:19",
+      "merchant": "m19",
+      "week": "2026-W35",
+      "cents": 142700,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:20",
+      "merchant": "m20",
+      "week": "2026-W35",
+      "cents": 99400,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:21",
+      "merchant": "m21",
+      "week": "2026-W35",
+      "cents": 95600,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:22",
+      "merchant": "m22",
+      "week": "2026-W35",
+      "cents": 168900,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:23",
+      "merchant": "m23",
+      "week": "2026-W35",
+      "cents": 183600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:24",
+      "merchant": "m24",
+      "week": "2026-W35",
+      "cents": 21500,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:25",
+      "merchant": "m25",
+      "week": "2026-W35",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:26",
+      "merchant": "m26",
+      "week": "2026-W35",
+      "cents": 166700,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:27",
+      "merchant": "m27",
+      "week": "2026-W35",
+      "cents": 149300,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:28",
+      "merchant": "m28",
+      "week": "2026-W35",
+      "cents": 173200,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s8:29",
+      "merchant": "m29",
+      "week": "2026-W35",
+      "cents": 126600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "statistics.summarize",
+    {
+      "id": "sum8",
+      "week": "2026-W35",
+      "merchants": [
+        "m0",
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m9",
+        "m10",
+        "m11",
+        "m12",
+        "m13",
+        "m14",
+        "m15",
+        "m16",
+        "m17",
+        "m18",
+        "m19",
+        "m20",
+        "m21",
+        "m22",
+        "m23",
+        "m24",
+        "m25",
+        "m26",
+        "m27",
+        "m28",
+        "m29"
+      ]
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:0",
+      "merchant": "m0",
+      "week": "2026-W36",
+      "cents": 59400,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:1",
+      "merchant": "m1",
+      "week": "2026-W36",
+      "cents": 177600,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:2",
+      "merchant": "m2",
+      "week": "2026-W36",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:3",
+      "merchant": "m3",
+      "week": "2026-W36",
+      "cents": 17000,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:4",
+      "merchant": "m4",
+      "week": "2026-W36",
+      "cents": 196500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:5",
+      "merchant": "m5",
+      "week": "2026-W36",
+      "cents": 147400,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:6",
+      "merchant": "m6",
+      "week": "2026-W36",
+      "cents": 45100,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:7",
+      "merchant": "m7",
+      "week": "2026-W36",
+      "cents": 12400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:8",
+      "merchant": "m8",
+      "week": "2026-W36",
+      "cents": 41200,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:9",
+      "merchant": "m9",
+      "week": "2026-W36",
+      "cents": 15700,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:10",
+      "merchant": "m10",
+      "week": "2026-W36",
+      "cents": 99500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:11",
+      "merchant": "m11",
+      "week": "2026-W36",
+      "cents": 195800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:12",
+      "merchant": "m12",
+      "week": "2026-W36",
+      "cents": 122800,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:13",
+      "merchant": "m13",
+      "week": "2026-W36",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:14",
+      "merchant": "m14",
+      "week": "2026-W36",
+      "cents": 164300,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:15",
+      "merchant": "m15",
+      "week": "2026-W36",
+      "cents": 110300,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:16",
+      "merchant": "m16",
+      "week": "2026-W36",
+      "cents": 107000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:17",
+      "merchant": "m17",
+      "week": "2026-W36",
+      "cents": 85900,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:18",
+      "merchant": "m18",
+      "week": "2026-W36",
+      "cents": 163000,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:19",
+      "merchant": "m19",
+      "week": "2026-W36",
+      "cents": 136300,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:20",
+      "merchant": "m20",
+      "week": "2026-W36",
+      "cents": 49800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:21",
+      "merchant": "m21",
+      "week": "2026-W36",
+      "cents": 57400,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:22",
+      "merchant": "m22",
+      "week": "2026-W36",
+      "cents": 75700,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:23",
+      "merchant": "m23",
+      "week": "2026-W36",
+      "cents": 30700,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:24",
+      "merchant": "m24",
+      "week": "2026-W36",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:25",
+      "merchant": "m25",
+      "week": "2026-W36",
+      "cents": 160600,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:26",
+      "merchant": "m26",
+      "week": "2026-W36",
+      "cents": 10600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:27",
+      "merchant": "m27",
+      "week": "2026-W36",
+      "cents": 58600,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:28",
+      "merchant": "m28",
+      "week": "2026-W36",
+      "cents": 185600,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s9:29",
+      "merchant": "m29",
+      "week": "2026-W36",
+      "cents": 30800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "statistics.summarize",
+    {
+      "id": "sum9",
+      "week": "2026-W36",
+      "merchants": [
+        "m0",
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m9",
+        "m10",
+        "m11",
+        "m12",
+        "m13",
+        "m14",
+        "m15",
+        "m16",
+        "m17",
+        "m18",
+        "m19",
+        "m20",
+        "m21",
+        "m22",
+        "m23",
+        "m24",
+        "m25",
+        "m26",
+        "m27",
+        "m28",
+        "m29"
+      ]
+    }
+  ],
+  [
+    "distribution.prepare",
+    {
+      "id": "rel9",
+      "summary": "sum9",
+      "recipients": [
+        "alliance"
+      ],
+      "reviewer": "finance"
+    }
+  ],
+  [
+    "distribution.send",
+    {
+      "id": "rel9"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:0",
+      "merchant": "m0",
+      "week": "2026-W37",
+      "cents": 9600,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:1",
+      "merchant": "m1",
+      "week": "2026-W37",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:2",
+      "merchant": "m2",
+      "week": "2026-W37",
+      "cents": 106900,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:3",
+      "merchant": "m3",
+      "week": "2026-W37",
+      "cents": 65300,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:4",
+      "merchant": "m4",
+      "week": "2026-W37",
+      "cents": 162000,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:5",
+      "merchant": "m5",
+      "week": "2026-W37",
+      "cents": 175500,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:6",
+      "merchant": "m6",
+      "week": "2026-W37",
+      "cents": 90700,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:7",
+      "merchant": "m7",
+      "week": "2026-W37",
+      "cents": 186700,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:8",
+      "merchant": "m8",
+      "week": "2026-W37",
+      "cents": 69000,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:9",
+      "merchant": "m9",
+      "week": "2026-W37",
+      "cents": 189700,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:10",
+      "merchant": "m10",
+      "week": "2026-W37",
+      "cents": 80500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:11",
+      "merchant": "m11",
+      "week": "2026-W37",
+      "cents": 77800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:12",
+      "merchant": "m12",
+      "week": "2026-W37",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:13",
+      "merchant": "m13",
+      "week": "2026-W37",
+      "cents": 15900,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:14",
+      "merchant": "m14",
+      "week": "2026-W37",
+      "cents": 183500,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:15",
+      "merchant": "m15",
+      "week": "2026-W37",
+      "cents": 32300,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:16",
+      "merchant": "m16",
+      "week": "2026-W37",
+      "cents": 139400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:17",
+      "merchant": "m17",
+      "week": "2026-W37",
+      "cents": 172400,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:18",
+      "merchant": "m18",
+      "week": "2026-W37",
+      "cents": 168500,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:19",
+      "merchant": "m19",
+      "week": "2026-W37",
+      "cents": 16400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:20",
+      "merchant": "m20",
+      "week": "2026-W37",
+      "cents": 51000,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:21",
+      "merchant": "m21",
+      "week": "2026-W37",
+      "cents": 12900,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:22",
+      "merchant": "m22",
+      "week": "2026-W37",
+      "cents": 177200,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:23",
+      "merchant": "m23",
+      "week": "2026-W37",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:24",
+      "merchant": "m24",
+      "week": "2026-W37",
+      "cents": 112800,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:25",
+      "merchant": "m25",
+      "week": "2026-W37",
+      "cents": 164300,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:26",
+      "merchant": "m26",
+      "week": "2026-W37",
+      "cents": 5000,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:27",
+      "merchant": "m27",
+      "week": "2026-W37",
+      "cents": 63000,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:28",
+      "merchant": "m28",
+      "week": "2026-W37",
+      "cents": 31400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s10:29",
+      "merchant": "m29",
+      "week": "2026-W37",
+      "cents": 115900,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "statistics.summarize",
+    {
+      "id": "sum10",
+      "week": "2026-W37",
+      "merchants": [
+        "m0",
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m9",
+        "m10",
+        "m11",
+        "m12",
+        "m13",
+        "m14",
+        "m15",
+        "m16",
+        "m17",
+        "m18",
+        "m19",
+        "m20",
+        "m21",
+        "m22",
+        "m23",
+        "m24",
+        "m25",
+        "m26",
+        "m27",
+        "m28",
+        "m29"
+      ]
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:0",
+      "merchant": "m0",
+      "week": "2026-W38",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:1",
+      "merchant": "m1",
+      "week": "2026-W38",
+      "cents": 132200,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:2",
+      "merchant": "m2",
+      "week": "2026-W38",
+      "cents": 157000,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:3",
+      "merchant": "m3",
+      "week": "2026-W38",
+      "cents": 176000,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:4",
+      "merchant": "m4",
+      "week": "2026-W38",
+      "cents": 6300,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:5",
+      "merchant": "m5",
+      "week": "2026-W38",
+      "cents": 82700,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:6",
+      "merchant": "m6",
+      "week": "2026-W38",
+      "cents": 77600,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:7",
+      "merchant": "m7",
+      "week": "2026-W38",
+      "cents": 82300,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:8",
+      "merchant": "m8",
+      "week": "2026-W38",
+      "cents": 151500,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:9",
+      "merchant": "m9",
+      "week": "2026-W38",
+      "cents": 86600,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:10",
+      "merchant": "m10",
+      "week": "2026-W38",
+      "cents": 72600,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:11",
+      "merchant": "m11",
+      "week": "2026-W38",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:12",
+      "merchant": "m12",
+      "week": "2026-W38",
+      "cents": 116300,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:13",
+      "merchant": "m13",
+      "week": "2026-W38",
+      "cents": 72400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:14",
+      "merchant": "m14",
+      "week": "2026-W38",
+      "cents": 94800,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:15",
+      "merchant": "m15",
+      "week": "2026-W38",
+      "cents": 120600,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:16",
+      "merchant": "m16",
+      "week": "2026-W38",
+      "cents": 75500,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:17",
+      "merchant": "m17",
+      "week": "2026-W38",
+      "cents": 164600,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:18",
+      "merchant": "m18",
+      "week": "2026-W38",
+      "cents": 170400,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:19",
+      "merchant": "m19",
+      "week": "2026-W38",
+      "cents": 190900,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:20",
+      "merchant": "m20",
+      "week": "2026-W38",
+      "cents": 30300,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:21",
+      "merchant": "m21",
+      "week": "2026-W38",
+      "cents": 146400,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:22",
+      "merchant": "m22",
+      "week": "2026-W38",
+      "cents": null,
+      "open_days": 0,
+      "status": "missing"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:23",
+      "merchant": "m23",
+      "week": "2026-W38",
+      "cents": 88500,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:24",
+      "merchant": "m24",
+      "week": "2026-W38",
+      "cents": 141400,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:25",
+      "merchant": "m25",
+      "week": "2026-W38",
+      "cents": 179900,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:26",
+      "merchant": "m26",
+      "week": "2026-W38",
+      "cents": 41400,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:27",
+      "merchant": "m27",
+      "week": "2026-W38",
+      "cents": 198200,
+      "open_days": 5,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:28",
+      "merchant": "m28",
+      "week": "2026-W38",
+      "cents": 193400,
+      "open_days": 6,
+      "status": "reported"
+    }
+  ],
+  [
+    "submissions.report",
+    {
+      "id": "s11:29",
+      "merchant": "m29",
+      "week": "2026-W38",
+      "cents": 99400,
+      "open_days": 7,
+      "status": "reported"
+    }
+  ],
+  [
+    "statistics.summarize",
+    {
+      "id": "sum11",
+      "week": "2026-W38",
+      "merchants": [
+        "m0",
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m9",
+        "m10",
+        "m11",
+        "m12",
+        "m13",
+        "m14",
+        "m15",
+        "m16",
+        "m17",
+        "m18",
+        "m19",
+        "m20",
+        "m21",
+        "m22",
+        "m23",
+        "m24",
+        "m25",
+        "m26",
+        "m27",
+        "m28",
+        "m29"
+      ]
+    }
+  ],
+  [
+    "panel.merge",
+    {
+      "id": "m0",
+      "successors": [
+        "m1",
+        "m2"
+      ],
+      "effective": "2026-09-21"
+    }
+  ],
+  [
+    "submissions.correct",
+    {
+      "id": "s11:2",
+      "cents": 90000,
+      "reason": "对账补正"
+    }
+  ]
+]
